@@ -1,12 +1,6 @@
-# LangChain & Supabase - Create a ChatGpt Chatbot for Your Website
+# LangChain & Supabase - zkSync Chatbot Website
 
-Create a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js. LangChain is a framework that makes it easier to build scalable AI/LLM apps. Supabase is an open source Postgres database that can store embeddings using a pg vector extension.
-
-[Tutorial video](https://www.youtube.com/watch?v=prbloUGlvLE)
-
-[Get in touch via twitter if you need help](https://twitter.com/mayowaoshin)
-
-The visual guide of this repo and tutorial is in the `visual guide` folder.
+This is a chatbot website for zkSync documentation, heavily inspired by [Mayo](https://twitter.com/mayowaoshin).
 
 ## Development
 
@@ -79,4 +73,4 @@ Once you've verified that the embeddings and content have been successfully adde
 
 Frontend of this repo is inspired by [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs)
 
-This repo uses in-depth Notion guides from the [website](https://thomasjfrank.com/) of productivity expert, Thomas Frank.
+This repo is heavily inspired by [Mayo's](<(https://twitter.com/mayowaoshin)>) chatbot building process. It takes in partial zkSync documentation as context from [zkSync](https://docs.zksync.io/dev/).
